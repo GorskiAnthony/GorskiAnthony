@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GorskiAnthony)
 ![Profile views](https://gpvc.arturio.dev/GorskiAnthony)
 
-<img src="https://raw.githubusercontent.com/GorskiAnthony/GorskiAnthony/master/gh-banner.png" alt="banner">
+<img src="https://raw.githubusercontent.com/GorskiAnthony/GorskiAnthony/master/header.png" alt="banner">
 
 Je suis développeur d'application ! Je suis passionné par l'infiniment grand 🌌 et l'infiniment petit 🐜 !
 
