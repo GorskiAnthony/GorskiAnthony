@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Hello ! I am a French developer</h1>
+<h1 align="center">Hello ! I am a French developer</h1>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GorskiAnthony)
 ![Profile views](https://gpvc.arturio.dev/GorskiAnthony)
@@ -64,11 +64,11 @@ C'est pourquoi, j'essai dès que possible de faire de nouvelles choses pour sort
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GorskiAnthony)](https://github.com/GorskiAnthony/github-readme-stats)
 
-## Où me trouver 🔍 :
+## Find me 🔍 :
 
 <span style="padding-right: 20px">[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/gorskianthony)</span>
 <span style="padding-right: 20px">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anthony-gorski//)</span>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anthony-gorski/)</span>
 <span style="padding-right: 20px">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Gorski_anthony)</span>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.agorski.fr/)
