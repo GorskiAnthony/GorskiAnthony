@@ -1,7 +1,6 @@
 <h1 align="center">Hello ! I am a French developer</h1>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GorskiAnthony)
-![Profile views](https://gpvc.arturio.dev/GorskiAnthony)
 
 <img src="https://raw.githubusercontent.com/GorskiAnthony/GorskiAnthony/master/header.png" alt="banner">
 
