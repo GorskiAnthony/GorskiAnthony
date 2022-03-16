@@ -1,36 +1,42 @@
-<h1 align="center">Hello ! I am a French developer</h1>
+<h1 align="center"> Instructor JavaScript</h1>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GorskiAnthony)
+![Twitter Follow](https://img.shields.io/twitter/follow/Gorski_anthony?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCWVgHNcrKtH_mTf9aMPA_4g?style=social)
+![GitHub followers](https://img.shields.io/github/followers/GorskiAnthony?style=social)
 
 <img src="https://raw.githubusercontent.com/GorskiAnthony/GorskiAnthony/master/header.png" alt="banner">
 
-Je suis développeur d'application ! Je suis passionné par l'infiniment grand 🌌 et l'infiniment petit 🐜 !
+## Introduction
 
-> “Quand quelque chose est assez important, vous le faites même si les chances ne sont pas en votre faveur.” | Elon Musk
+Hello and welcome to my website! I am a software developer and a web developer. I am currently an instructor at [Wild Code School](https://www.wildcodeschool.com/fr-FR).
+I am a self-taught programmer and I am always looking to learn new things.
+<a href="https://agorski.fr/" target="_blank"><img src='https://avataaars.io/?avatarStyle=Transparent&topType=NoHair&accessoriesType=Prescription02&facialHairType=BeardLight&facialHairColor=Auburn&clotheType=Hoodie&clotheColor=Heather&eyeType=Wink&eyebrowType=UpDown&mouthType=Smile&skinColor=Light'
+align="right" height="125"
+/></a>
 
-| Pour moi, Elon Musk est un exemple. C'est pourquoi j'essaie de mieux me connaître pour ainsi, m'améliorer encore et encore !
+See you soon guys &ensp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-C'est pourquoi, j'essai dès que possible de faire de nouvelles choses pour sortir de ma zone de confort et ainsi élargir mes compétences !
-
-### Language
+## Languages
 
 <p>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+	<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+	<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+	<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
 ### Framework
 
 <p>
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+	<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+	<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+	<img src="https://img.shields.io/badge/reactJS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+	<img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+	<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+	<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
 
 ### Design
@@ -57,19 +63,6 @@ C'est pourquoi, j'essai dès que possible de faire de nouvelles choses pour sort
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
 
----
+<!-- Markdown -->
 
-![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=GorskiAnthony&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GorskiAnthony)](https://github.com/GorskiAnthony/github-readme-stats)
-
-## Find me 🔍 :
-
-<span style="padding-right: 20px">[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/gorskianthony)</span>
-<span style="padding-right: 20px">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anthony-gorski/)</span>
-<span style="padding-right: 20px">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Gorski_anthony)</span>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.agorski.fr/)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GorskiAnthony)
+![Jokes Card](https://readme-jokes.vercel.app/api)
