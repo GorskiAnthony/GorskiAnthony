@@ -66,3 +66,6 @@ See you soon guys &ensp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<a href="https://app.daily.dev/Anthony_gorski"><img src="https://github.com/GorskiAnthony/GorskiAnthony/blob/master/devcard.svg" width="400" alt="AnthonyGorski's Dev Card" /></a>
+
