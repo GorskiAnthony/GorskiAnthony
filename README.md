@@ -17,6 +17,8 @@ align="right" height="125"
 
 See you soon guys &ensp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
+<img src="https://raw.githubusercontent.com/GorskiAnthony/GorskiAnthony/output/snake.svg" alt="Snake animation" />
+
 ## Languages
 
 <p>
@@ -58,10 +60,6 @@ See you soon guys &ensp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 <p>
 	<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-
-## Little fun moment
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
 
 <!-- Markdown -->
 
