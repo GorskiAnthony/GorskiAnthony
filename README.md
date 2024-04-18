@@ -17,7 +17,7 @@ align="right" height="125"
 
 See you soon guys &ensp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-<img src="https://raw.githubusercontent.com/GorskiAnthony/GorskiAnthony/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GorskiAnthony/GorskiAnthony/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ## Languages
 
