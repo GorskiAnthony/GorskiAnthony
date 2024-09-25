@@ -5,7 +5,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCWVgHNcrKtH_mTf9aMPA_4g?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/GorskiAnthony?style=social)
 
-<img src="https://raw.githubusercontent.com/GorskiAnthony/GorskiAnthony/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GorskiAnthony/GorskiAnthony/master/header.png" alt="banner">
 
 ## Introduction
 
